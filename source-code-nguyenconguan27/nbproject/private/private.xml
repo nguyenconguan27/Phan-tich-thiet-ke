@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/code/PTTK/src/java/model/TKKhachHang715.java</file>
+            <file>file:/D:/code/PTTK/web/view/khachhang/GDChiTietMH.jsp</file>
+            <file>file:/D:/code/PTTK/src/java/controller/khachhang/ChiTietMHController.java</file>
+            <file>file:/D:/code/PTTK/web/view/khachhang/GDTimKiemMH.jsp</file>
+            <file>file:/D:/code/PTTK/src/java/model/HoaDonXuat715.java</file>
+            <file>file:/D:/code/PTTK/src/java/model/NhanVien715.java</file>
+            <file>file:/D:/code/PTTK/src/java/controller/nvql/ChiTietHDController.java</file>
+            <file>file:/D:/code/PTTK/web/view/khachhang/GDDanhSachMH.jsp</file>
+            <file>file:/D:/code/PTTK/src/java/controller/nvql/DanhSachTKKHController.java</file>
+            <file>file:/D:/code/PTTK/src/java/controller/nvql/ChiTietTKKHController.java</file>
+            <file>file:/D:/code/PTTK/web/META-INF/context.xml</file>
+            <file>file:/D:/code/PTTK/src/java/dao/TKKhachHang715Dao.java</file>
+            <file>file:/D:/code/PTTK/web/view/nvql/GDTKChiTietKH.jsp</file>
+            <file>file:/D:/code/PTTK/src/java/model/GioHangXuat715.java</file>
+            <file>file:/D:/code/PTTK/src/java/controller/thanhvien/DangNhapController.java</file>
+            <file>file:/D:/code/PTTK/src/java/dao/ThanhVien715Dao.java</file>
+            <file>file:/D:/code/PTTK/src/java/dao/HoaDonXuat715Dao.java</file>
+            <file>file:/D:/code/PTTK/web/view/thanhvien/GDDangNhap.jsp</file>
+            <file>file:/D:/code/PTTK/web/view/nvql/GDChiTietHD.jsp</file>
+            <file>file:/D:/code/PTTK/web/view/nvql/GDDanhSachTK.jsp</file>
+            <file>file:/D:/code/PTTK/web/view/khachhang/GDChinhKH.jsp</file>
+            <file>file:/D:/code/PTTK/web/WEB-INF/web.xml</file>
+            <file>file:/D:/code/PTTK/src/java/model/MatHang715.java</file>
+            <file>file:/D:/code/PTTK/web/view/nvql/GDTKDanhSachKH.jsp</file>
+            <file>file:/D:/code/PTTK/src/java/dao/Dao.java</file>
+            <file>file:/D:/code/PTTK/src/java/model/HangNhap715.java</file>
+            <file>file:/D:/code/PTTK/src/java/model/HoaDonNhap715.java</file>
+            <file>file:/D:/code/PTTK/src/java/model/ThanhVien715.java</file>
+            <file>file:/D:/code/PTTK/src/java/model/HangXuat715.java</file>
+            <file>file:/D:/code/PTTK/src/java/dao/MatHang715Dao.java</file>
+            <file>file:/D:/code/PTTK/web/index.html</file>
+            <file>file:/D:/code/PTTK/src/java/model/TKMatHang715.java</file>
+            <file>file:/D:/code/PTTK/web/view/nvql/GDChinhNVQL.jsp</file>
+            <file>file:/D:/code/PTTK/src/java/controller/khachhang/TimKiemController.java</file>
+            <file>file:/D:/code/PTTK/src/java/model/ThongKe715.java</file>
+            <file>file:/D:/code/PTTK/src/java/model/KhachHang715.java</file>
+        </group>
+    </open-files>
+</project-private>
